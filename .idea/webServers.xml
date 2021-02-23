@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c62a280a-8979-45e4-a6ee-a86c9c38b333" name="rails@dev14.indopus.in">
+        <fileTransfer rootFolder="/home/rails/apps" accessType="SFTP" host="dev14.indopus.in" port="22" sshConfigId="543abf2e-3f94-49f0-a834-43deea40d8ca" sshConfig="rails@dev14.indopus.in:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
